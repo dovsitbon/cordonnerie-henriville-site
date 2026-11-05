@@ -1,0 +1,4 @@
+{
+  "_note": "Paires avant / après (même cadrage, même lumière). before / after : chemins /media/avant-apres/…jpg préparés par npm run media. Tant que la liste est vide, la section montre deux emplacements dessinés.",
+  "pairs": []
+}

@@ -1,0 +1,64 @@
+{
+  "_note": "Tarifs et délais affichés sur le site (tableau, tuiles, pages SEO, données structurées). price : prix « à partir de » en euros, ou null (affiché « sur devis »). delay : délai indicatif dans les deux langues, ou null. confirm: true = prestation à confirmer avec l'atelier (pas encore affichée si hidden: true). Tout est À REMPLIR / VALIDER avec l'atelier : aucun prix n'a été inventé.",
+  "categories": [
+    {
+      "id": "talons",
+      "name": { "fr": "Talons & semelles", "en": "Heels & soles" },
+      "items": [
+        { "id": "patins", "name": { "fr": "Pose de patins", "en": "Sole protectors fitted" }, "price": null, "delay": { "fr": "Dans la journée", "en": "Same day" } },
+        { "id": "talons-femme", "name": { "fr": "Embouts de talons, femme", "en": "Women's heel tips" }, "price": null, "delay": { "fr": "Pendant que vous attendez", "en": "While you wait" } },
+        { "id": "talons-homme", "name": { "fr": "Talons, homme", "en": "Men's heels" }, "price": null, "delay": { "fr": "Dans la journée", "en": "Same day" } },
+        { "id": "ressemelage-gomme", "name": { "fr": "Ressemelage gomme", "en": "Rubber resoling" }, "price": null, "delay": { "fr": "Quelques jours", "en": "A few days" } },
+        { "id": "ressemelage-cuir", "name": { "fr": "Ressemelage cuir", "en": "Leather resoling" }, "price": null, "delay": { "fr": "Environ une semaine", "en": "About a week" } }
+      ]
+    },
+    {
+      "id": "couture",
+      "name": { "fr": "Couture & cuir", "en": "Stitching & leather" },
+      "items": [
+        { "id": "couture-chaussure", "name": { "fr": "Couture, recollage", "en": "Stitching, re-gluing" }, "price": null, "delay": { "fr": "Dans la journée", "en": "Same day" } },
+        { "id": "fermeture-bottes", "name": { "fr": "Fermeture éclair de bottes", "en": "Boot zip replacement" }, "price": null, "delay": { "fr": "Quelques jours", "en": "A few days" } },
+        { "id": "teinture", "name": { "fr": "Teinture, rénovation du cuir", "en": "Dyeing, leather restoration" }, "price": null, "delay": { "fr": "Quelques jours", "en": "A few days" } },
+        { "id": "entretien", "name": { "fr": "Entretien, cirage, glaçage", "en": "Care, polishing, mirror shine" }, "price": null, "delay": { "fr": "Dans la journée", "en": "Same day" } },
+        { "id": "elargissement", "name": { "fr": "Mise en forme, élargissement", "en": "Stretching, reshaping" }, "price": null, "delay": { "fr": "24 à 48 h", "en": "24 to 48 hours" } }
+      ]
+    },
+    {
+      "id": "sacs",
+      "name": { "fr": "Sacs & maroquinerie", "en": "Bags & leather goods" },
+      "items": [
+        { "id": "couture-sac", "name": { "fr": "Couture de sac", "en": "Bag stitching" }, "price": null, "delay": { "fr": "Quelques jours", "en": "A few days" } },
+        { "id": "fermeture-sac", "name": { "fr": "Fermeture éclair de sac ou de blouson", "en": "Bag or jacket zip" }, "price": null, "delay": { "fr": "Quelques jours", "en": "A few days" } },
+        { "id": "anses", "name": { "fr": "Anses, poignées, bandoulière", "en": "Handles, straps" }, "price": null, "delay": { "fr": "Quelques jours", "en": "A few days" } },
+        { "id": "ceinture", "name": { "fr": "Ceinture : raccourcir, percer, boucle", "en": "Belt: shorten, punch holes, buckle" }, "price": null, "delay": { "fr": "Pendant que vous attendez", "en": "While you wait" } }
+      ]
+    },
+    {
+      "id": "cles",
+      "name": { "fr": "Clés & badges", "en": "Keys & fobs" },
+      "items": [
+        { "id": "cle-plate", "name": { "fr": "Clé plate (maison, cave, boîte aux lettres)", "en": "Standard flat key (home, cellar, letterbox)" }, "price": null, "delay": { "fr": "Pendant que vous attendez", "en": "While you wait" } },
+        { "id": "cle-securite", "name": { "fr": "Clé de sécurité, sur carte de propriété", "en": "High-security key, with owner's card" }, "price": null, "delay": { "fr": "Selon la marque", "en": "Depends on the brand" } },
+        { "id": "cle-voiture", "name": { "fr": "Clé de voiture", "en": "Car key" }, "price": null, "delay": { "fr": "Selon le modèle", "en": "Depends on the model" } },
+        { "id": "badge", "name": { "fr": "Badge d'immeuble", "en": "Building fob" }, "price": null, "delay": { "fr": "Pendant que vous attendez", "en": "While you wait" } }
+      ]
+    },
+    {
+      "id": "serrurerie",
+      "name": { "fr": "Serrurerie", "en": "Locksmithing" },
+      "items": [
+        { "id": "cylindre", "name": { "fr": "Cylindre, barillet : fourniture", "en": "Lock cylinder: supply" }, "price": null, "delay": null, "confirm": true },
+        { "id": "serrure-bal", "name": { "fr": "Serrure de boîte aux lettres", "en": "Letterbox lock" }, "price": null, "delay": null, "confirm": true }
+      ]
+    },
+    {
+      "id": "petits",
+      "name": { "fr": "Petits services", "en": "Small jobs" },
+      "items": [
+        { "id": "pile-montre", "name": { "fr": "Pile de montre", "en": "Watch battery" }, "price": null, "delay": { "fr": "Pendant que vous attendez", "en": "While you wait" } },
+        { "id": "gravure", "name": { "fr": "Gravure, plaques (boîte aux lettres, interphone)", "en": "Engraving, name plates (letterbox, intercom)" }, "price": null, "delay": { "fr": "Dans la journée", "en": "Same day" } },
+        { "id": "produits", "name": { "fr": "Produits d'entretien, lacets, semelles intérieures", "en": "Care products, laces, insoles" }, "price": null, "delay": { "fr": "En boutique", "en": "In store" } }
+      ]
+    }
+  ]
+}

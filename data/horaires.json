@@ -1,0 +1,17 @@
+{
+  "_note": "Jours : 0 = dimanche … 6 = samedi. Heures au format HH:MM, heure de Paris. Fermetures exceptionnelles (congés, jours fériés) dans closures, au format AAAA-MM-JJ : le statut « Ouvert / Fermé » en tient compte. Ajouter aussi l'annonce correspondante dans annonces.json.",
+  "timezone": "Europe/Paris",
+  "week": {
+    "0": null,
+    "1": null,
+    "2": [["07:15", "19:00"]],
+    "3": [["07:15", "19:00"]],
+    "4": [["07:15", "19:00"]],
+    "5": [["07:15", "19:00"]],
+    "6": [["07:15", "19:00"]]
+  },
+  "closures": [
+    { "from": "2026-12-25", "to": "2026-12-25", "label": { "fr": "Noël", "en": "Christmas Day" } },
+    { "from": "2027-01-01", "to": "2027-01-01", "label": { "fr": "Jour de l'an", "en": "New Year's Day" } }
+  ]
+}

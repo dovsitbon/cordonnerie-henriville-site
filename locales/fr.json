@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Cordonnier à Amiens, clés et serrurerie | Cordonnerie Henriville, Maître Artisan",
+    "description": "Cordonnerie Henriville, Maître Artisan cordonnier à Amiens : talons, ressemelage, couture, cuir, sacs, reproduction de clés et badges. Sans rendez-vous, du mardi au samedi dès 7 h 15. 4,8/5 sur Google.",
+    "ogAlt": "Les mains du cordonnier finissent un mocassin noir à la ponceuse, à la Cordonnerie Henriville d’Amiens"
+  },
+  "nav": {
+    "cordonnerie": "Cordonnerie",
+    "cles": "Clés & serrurerie",
+    "cuir": "Cuir & maroquinerie",
+    "tarifs": "Tarifs",
+    "infos": "Infos",
+    "devis": "Demander un devis",
+    "devisShort": "Devis",
+    "call": "Appeler",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "home": "Cordonnerie Henriville, accueil",
+    "instagram": "La Cordonnerie Henriville sur Instagram",
+    "lang": "Langue",
+    "skip": "Aller au contenu"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "announce": {
+    "close": "Fermer le bandeau"
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé",
+    "until": "jusqu’à {time}",
+    "reopens": "réouverture {day} à {time}",
+    "today": "aujourd’hui",
+    "tomorrow": "demain"
+  },
+  "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+  "rating": {
+    "label": "{value}/5 sur Google",
+    "count": "{count} avis",
+    "asOf": "Note relevée en {date}"
+  },
+  "hero": {
+    "eyebrow": "Maître artisan cordonnier · Henriville, Amiens",
+    "title": "On répare,<br> <em>on ne jette pas</em>",
+    "lead": "Talons, semelles, coutures, cuir, sacs, clés : l’atelier du quartier Henriville remet en état ce que vous aimez porter, à un prix honnête. Sans rendez-vous, dès 7 h 15.",
+    "devis": "Demander un devis",
+    "tarifs": "Voir les tarifs"
+  },
+  "tiles": {
+    "eyebrow": "L’atelier",
+    "title": "Ce qu’on répare, ce qu’on reproduit",
+    "from": "à partir de {price}",
+    "onQuote": "Prix sur devis",
+    "items": {
+      "talons": { "title": "Talons & semelles", "text": "Patins, embouts, talons, ressemelage gomme ou cuir." },
+      "couture": { "title": "Couture & cuir", "text": "Coutures, recollage, fermetures de bottes, teinture, entretien." },
+      "sacs": { "title": "Sacs & maroquinerie", "text": "Sacs, ceintures, anses, fermetures éclair, petite maroquinerie." },
+      "cles": { "title": "Clés & badges", "text": "Clés plates, de sécurité, de voiture, badges d’immeuble." },
+      "serrurerie": { "title": "Serrurerie", "text": "Cylindres et serrures de boîte aux lettres : demandez-nous." },
+      "petits": { "title": "Petits services", "text": "Piles de montre, gravure, plaques, produits d’entretien." }
+    }
+  },
+  "strip": {
+    "label": "En bref",
+    "items": [
+      { "title": "Ouvert dès 7 h 15", "text": "Du mardi au samedi, sans interruption jusqu’à 19 h." },
+      { "title": "Sans rendez-vous", "text": "Passez déposer, on regarde avec vous." },
+      { "title": "Devis par photo", "text": "Envoyez 1 à 3 photos, on vous répond." },
+      { "title": "03 22 95 65 63", "text": "Une question ? Appelez l’atelier." }
+    ]
+  },
+  "beforeAfter": {
+    "eyebrow": "Avant / après",
+    "title": "La preuve par l’atelier",
+    "lead": "Faites glisser le curseur pour comparer. Les photos sont prises à l’atelier, avant et après réparation.",
+    "before": "Avant",
+    "after": "Après",
+    "handle": "Comparer avant et après",
+    "soon": "Les premières photos avant / après arrivent : chaussures ressemelées, sacs remis en couleur.",
+    "slots": ["Chaussures ressemelées", "Sac remis en couleur"]
+  },
+  "tarifs": {
+    "eyebrow": "Tarifs & délais",
+    "title": "Des prix clairs, annoncés avant de commencer",
+    "lead": "Les prix sont indicatifs : chaque paire, chaque sac est différent. On regarde l’objet avec vous et on vous donne le prix avant de toucher à quoi que ce soit.",
+    "note": "Délais donnés à titre indicatif, selon la charge de l’atelier.",
+    "head": { "service": "Prestation", "price": "Prix indicatif", "delay": "Délai" },
+    "from": "à partir de {price}",
+    "onQuote": "sur devis",
+    "confirm": "à confirmer",
+    "ask": "Demander un devis"
+  },
+  "blocks": {
+    "atelier": {
+      "eyebrow": "L’atelier",
+      "title": "Un atelier de quartier, ouvert avant le travail",
+      "text": "Au 34 rue Gaulthier de Rumilly, l’atelier ouvre à 7 h 15 et ne ferme pas le midi. Vous déposez vos chaussures en partant au travail, vous les reprenez en rentrant. Les petites réparations se font souvent pendant que vous attendez.",
+      "cta": "Horaires et accès"
+    },
+    "cles": {
+      "eyebrow": "Clés & serrurerie",
+      "title": "Un double de clé, le temps d’un café",
+      "text": "Clés plates de maison, de cave ou de boîte aux lettres, clés de sécurité sur présentation de la carte de propriété, clés de voiture et badges d’immeuble selon les modèles. Apportez la clé d’origine, on vérifie avec vous qu’elle se reproduit.",
+      "cta": "Reproduction de clés"
+    },
+    "cuir": {
+      "eyebrow": "Cuir & maroquinerie",
+      "title": "Le cuir se soigne, il ne se jette pas",
+      "text": "Un sac décoloré, une couture qui lâche, une ceinture trop longue, une fermeture éclair cassée : le cuir supporte très bien la réparation. Teinture, couture, remplacement d’anses, on vous dit franchement ce qui vaut la peine d’être fait.",
+      "cta": "Demander un devis cuir"
+    }
+  },
+  "metier": {
+    "eyebrow": "Le métier",
+    "title": "Maître artisan, ça veut dire quelque chose",
+    "text": "Le titre de Maître Artisan est délivré par la Chambre de métiers et de l’artisanat. Il reconnaît une qualification et des années de pratique dans le métier. À l’atelier, cela se traduit simplement : on prend le temps de regarder, on vous dit ce qui se répare et ce qui ne vaut pas la dépense, et on fait le travail à la main.",
+    "points": [
+      "Réparer plutôt que racheter : une bonne paire ressemelée repart pour des années.",
+      "Le prix annoncé avant de commencer, sans surprise au retrait.",
+      "Des conseils d’entretien pour que la réparation dure."
+    ],
+    "credit": "Photo : {credit}",
+    "tips": {
+      "eyebrow": "Conseils d’entretien",
+      "title": "Quatre gestes qui font durer vos chaussures",
+      "items": [
+        { "title": "Alterner les paires", "text": "Le cuir a besoin d’un jour pour sécher de la transpiration. Deux paires portées en alternance durent plus de deux fois plus longtemps." },
+        { "title": "Des embauchoirs en bois", "text": "Glissés dès que vous retirez vos chaussures, ils gardent la forme et absorbent l’humidité." },
+        { "title": "Des patins sur cuir neuf", "text": "Sur une semelle en cuir, un patin posé tôt protège l’avant du pied et retarde le ressemelage." },
+        { "title": "Loin du radiateur", "text": "Mouillées, laissez-les sécher à l’air libre, bourrées de papier journal. La chaleur directe craquelle le cuir." }
+      ]
+    }
+  },
+  "reviews": {
+    "eyebrow": "Avis Google",
+    "title": "Ce que les clients retiennent",
+    "themes": ["Des prix honnêtes", "Un vrai travail d’artisan", "Un atelier de quartier"],
+    "cta": "Lire les avis sur Google"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Passez à l’atelier",
+    "address": "Adresse",
+    "route": "Itinéraire",
+    "phone": "Téléphone",
+    "hours": "Horaires",
+    "closedDay": "Fermé",
+    "closures": "Fermetures à venir",
+    "access": "Accès",
+    "accessText": "Quartier Henriville, au sud du centre-ville, à quelques minutes à pied de la gare d’Amiens. Stationnement dans les rues voisines.",
+    "mapTitle": "Plan d’accès à la Cordonnerie Henriville, 34 rue Gaulthier de Rumilly à Amiens"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de venir",
+    "items": [
+      { "q": "Faut-il prendre rendez-vous ?", "a": "Non. L’atelier vous accueille sans rendez-vous, du mardi au samedi, de 7 h 15 à 19 h sans interruption." },
+      { "q": "Combien de temps pour une réparation ?", "a": "Les clés, les piles de montre, les embouts de talons et les ceintures se font souvent pendant que vous attendez. Un ressemelage ou une teinture prennent quelques jours. On vous donne la date de retrait au moment du dépôt." },
+      { "q": "Comment obtenir un devis ?", "a": "Passez à l’atelier avec l’objet, ou envoyez 1 à 3 photos par le formulaire de devis. On vous répond avec un prix et un délai, et on ne commence rien sans votre accord." },
+      { "q": "Quelles clés pouvez-vous reproduire ?", "a": "Les clés plates courantes (maison, cave, boîte aux lettres), les clés de sécurité sur présentation de la carte de propriété, certaines clés de voiture et les badges d’immeuble selon les modèles. Apportez la clé d’origine : on vous dit tout de suite si c’est possible." },
+      { "q": "Quels moyens de paiement acceptez-vous ?", "a": "Espèces et carte bancaire. Le paiement se fait au retrait, une fois la réparation faite." },
+      { "q": "Et si j’oublie de récupérer mes chaussures ?", "a": "Gardez le ticket remis au dépôt. Les objets sont conservés à l’atelier ; au-delà de plusieurs mois sans nouvelles, nous vous contactons. Passez ou appelez si vous avez un doute." }
+    ]
+  },
+  "footer": {
+    "tagline": "Cordonnerie, cuir, clés et serrurerie au cœur du quartier Henriville, à Amiens. Maître artisan cordonnier.",
+    "contact": "Atelier",
+    "pages": "Pages",
+    "days": "Du mardi au samedi\n7 h 15 – 19 h, sans interruption",
+    "closed": "Fermé le dimanche et le lundi",
+    "rights": "Cordonnerie Henriville, Amiens",
+    "legal": "Mentions légales"
+  },
+  "devis": {
+    "eyebrow": "Devis gratuit",
+    "title": "Demander un devis",
+    "lead": "Décrivez la réparation et joignez 1 à 3 photos. L’atelier vous répond avec un prix et un délai. Rien n’est commencé sans votre accord.",
+    "preferCall": "Plus simple au téléphone ?",
+    "sections": {
+      "object": "L’objet",
+      "repair": "La réparation",
+      "photos": "Les photos",
+      "delay": "Le délai",
+      "contact": "Vos coordonnées"
+    },
+    "fields": {
+      "objects": { "chaussures": "Chaussures", "sac": "Sac", "ceinture": "Ceinture", "cle": "Clé ou badge", "autre": "Autre" },
+      "repairsLabel": "Ce qu’il faut faire",
+      "repairsHint": "plusieurs choix possibles",
+      "repair": "Précisez si besoin",
+      "repairPh": "Ex. : talon usé côté extérieur, couture décousue sur 3 cm, clé Fichet…",
+      "photos": "Ajouter des photos",
+      "photosHint": "1 à 3 photos : vue d’ensemble, puis le détail à réparer.",
+      "photoRemove": "Retirer",
+      "photosCount": "{count}/3",
+      "delays": { "pas-presse": "Pas pressé", "semaine": "Dans la semaine", "urgent": "Le plus vite possible", "date": "Pour une date précise :" },
+      "date": "Date souhaitée",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "emailHint": "(pour recevoir la confirmation)",
+      "message": "Message",
+      "messagePh": "Une précision, une question, la marque de l’article…"
+    },
+    "repairs": {
+      "talons": "Talons",
+      "patins": "Patins",
+      "ressemelage": "Ressemelage",
+      "couture": "Couture",
+      "fermeture": "Fermeture éclair",
+      "teinture": "Teinture, rénovation",
+      "entretien": "Entretien, cirage",
+      "elargissement": "Élargissement",
+      "anses": "Anses, poignées",
+      "doublure": "Doublure",
+      "raccourcir": "Raccourcir",
+      "trous": "Trous supplémentaires",
+      "boucle": "Changer la boucle",
+      "cle-plate": "Clé plate",
+      "cle-securite": "Clé de sécurité",
+      "cle-voiture": "Clé de voiture",
+      "badge": "Badge"
+    },
+    "errors": {
+      "object": "Choisissez le type d’objet.",
+      "repair": "Dites-nous ce qu’il faut faire (une case ou un mot).",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide.",
+      "email": "Cette adresse e-mail ne semble pas valide.",
+      "photo": "Cette photo n’a pas pu être lue. Essayez une autre image.",
+      "generic": "L’envoi n’a pas abouti. Réessayez, ou appelez l’atelier au 03 22 95 65 63."
+    },
+    "submit": "Envoyer la demande",
+    "sending": "Envoi…",
+    "privacy": "Vos coordonnées servent uniquement à répondre à cette demande. Elles ne sont ni revendues ni utilisées pour de la publicité.",
+    "success": {
+      "title": "Demande bien reçue",
+      "text": "L’atelier regarde vos photos et vous répond avec un prix et un délai.",
+      "email": "Un récapitulatif vient de vous être envoyé par e-mail.",
+      "notNotified": "Pour être sûr que l’atelier l’a bien reçue, appelez directement :",
+      "again": "Faire une autre demande"
+    },
+    "message": {
+      "title": "Nouvelle demande de devis",
+      "object": "Objet",
+      "repairs": "Réparations",
+      "repair": "Précisions",
+      "delay": "Délai souhaité",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "photos": "Photos jointes"
+    },
+    "email": {
+      "subject": "Demande de devis",
+      "confirmSubject": "Votre demande de devis, Cordonnerie Henriville",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre demande. Voici ce que nous avons reçu :",
+      "confirmOutro": "Nous revenons vers vous avec un prix et un délai. Pour toute question : {phone}, du mardi au samedi de 7 h 15 à 19 h.\n\nCordonnerie Henriville\n34 rue Gaulthier de Rumilly, 80000 Amiens"
+    }
+  },
+  "pages": {
+    "cles": {
+      "metaTitle": "Reproduction de clés à Amiens, badges et clés de sécurité | Cordonnerie Henriville",
+      "metaDescription": "Double de clé à Amiens, quartier Henriville : clés plates, clés de sécurité sur carte, clés de voiture, badges d’immeuble. Sans rendez-vous, dès 7 h 15, du mardi au samedi.",
+      "eyebrow": "Clés & serrurerie · Amiens",
+      "title": "Reproduction de clés à Amiens",
+      "intro": "Un double pour la nounou, une clé de cave perdue, un badge d’immeuble en plus : apportez la clé d’origine à l’atelier, la plupart des reproductions se font pendant que vous attendez.",
+      "cta": "Demander un devis clé",
+      "listTitle": "Ce que nous reproduisons",
+      "list": [
+        { "title": "Clés plates", "text": "Portes d’entrée, caves, garages, boîtes aux lettres, cadenas." },
+        { "title": "Clés de sécurité", "text": "Sur présentation de la carte de propriété du cylindre, selon la marque." },
+        { "title": "Clés de voiture", "text": "Selon le modèle et l’année : appelez ou passez avec la clé pour vérifier." },
+        { "title": "Badges d’immeuble", "text": "Copie des badges les plus courants, selon la technologie du badge." }
+      ],
+      "howTitle": "Comment ça se passe",
+      "how": [
+        { "title": "Apportez la clé d’origine", "text": "Une copie de copie s’use plus vite et fonctionne moins bien. L’original donne le meilleur résultat." },
+        { "title": "On vérifie avec vous", "text": "Profil, marque, carte de propriété : on vous dit tout de suite si la reproduction est possible et à quel prix." },
+        { "title": "Essayez-la chez vous", "text": "Si une clé accroche, revenez avec : on la reprend." }
+      ],
+      "serrurerie": "Serrurerie : cylindres et serrures de boîte aux lettres. Les prestations exactes sont à confirmer avec l’atelier, appelez-nous pour en parler."
+    },
+    "ressemelage": {
+      "metaTitle": "Ressemelage à Amiens, talons et patins | Cordonnerie Henriville, Maître Artisan",
+      "metaDescription": "Ressemelage cuir ou gomme à Amiens par un maître artisan cordonnier : talons, patins, coutures. Devis par photo, sans rendez-vous, quartier Henriville.",
+      "eyebrow": "Cordonnerie · Amiens",
+      "title": "Ressemelage à Amiens",
+      "intro": "Une bonne paire mérite plus d’une vie. Quand la semelle est usée ou percée, on la remplace en gardant le dessus, et vos chaussures repartent pour des années.",
+      "cta": "Demander un devis ressemelage",
+      "listTitle": "Talons, patins, semelles",
+      "list": [
+        { "title": "Ressemelage cuir", "text": "Pour les chaussures de ville à semelle cuir : on remplace la semelle à l’identique." },
+        { "title": "Ressemelage gomme", "text": "Plus d’adhérence, plus de durée, idéal pour l’hiver amiénois." },
+        { "title": "Talons et embouts", "text": "Talons homme, embouts de talons femme : souvent fait pendant que vous attendez." },
+        { "title": "Patins", "text": "Une fine semelle de protection posée sous l’avant du pied, sur cuir neuf ou à peine usé." }
+      ],
+      "howTitle": "Quand faut-il ressemeler ?",
+      "how": [
+        { "title": "La semelle s’amincit", "text": "Appuyez au centre de l’avant-pied : si c’est souple comme du carton, il est temps." },
+        { "title": "Le talon est usé de biais", "text": "Ne laissez pas l’usure atteindre la semelle : un talon se change vite et coûte peu." },
+        { "title": "Avant le trou", "text": "Une semelle percée laisse passer l’eau et abîme la première de propreté : ressemelez avant." }
+      ],
+      "related": "Un doute sur votre paire ? Envoyez une photo de la semelle, on vous dit ce qui est possible."
+    }
+  },
+  "legal": {
+    "metaTitle": "Mentions légales | Cordonnerie Henriville",
+    "title": "Mentions légales",
+    "editor": "Éditeur",
+    "editorText": "{company}, 34 rue Gaulthier de Rumilly, 80000 Amiens. Téléphone : 03 22 95 65 63.",
+    "siret": "SIRET : {siret}.",
+    "director": "Responsable de la publication : {director}.",
+    "host": "Hébergeur",
+    "data": "Données personnelles",
+    "dataText": "Les informations envoyées par le formulaire de devis (nom, téléphone, e-mail, photos, message) servent uniquement à répondre à votre demande. Elles sont transmises par e-mail à l’atelier et ne sont pas conservées sur le site. Vous pouvez demander leur suppression en appelant l’atelier.",
+    "photos": "Photos",
+    "photosText": "Photos de l’atelier : Cordonnerie Henriville. Photo de teinture du sac : {credit}. Aucune image de banque d’images ni générée par intelligence artificielle.",
+    "cookies": "Cookies",
+    "cookiesText": "Le site n’utilise aucun cookie publicitaire ni de mesure d’audience. Seul votre choix de langue est mémorisé. La carte est fournie par Google Maps."
+  },
+  "alt": {
+    "mains-ponceuse-mocassin": "Les mains du cordonnier tiennent un mocassin noir contre la ponceuse de finition de l’atelier",
+    "teinture-sac-cuir-rouge": "Le cordonnier, gants noirs, teint à la main un sac en cuir rouge"
+  }
+}

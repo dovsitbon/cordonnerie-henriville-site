@@ -1,0 +1,18 @@
+{
+  "_note": "Emplacements photo du site. Chemin /media/<dossier>/<fichier>.jpg (préparé par npm run media depuis assets/), ou null : le site affiche alors un emplacement dessiné, sans fausse photo. Pour ajouter une photo prise sur place : la poser dans assets/<dossier>/, l'ajouter à scripts/media.mjs (PICKS), lancer npm run media, puis renseigner ici le chemin.",
+  "hero": "/media/hero/mains-ponceuse-mocassin.jpg",
+  "metier": null,
+  "atelier": null,
+  "facade": null,
+  "cordonnerie": null,
+  "cles": null,
+  "cuir": "/media/atelier/teinture-sac-cuir-rouge.jpg",
+  "tiles": {
+    "talons": null,
+    "couture": null,
+    "sacs": null,
+    "cles": null,
+    "serrurerie": null,
+    "petits": null
+  }
+}

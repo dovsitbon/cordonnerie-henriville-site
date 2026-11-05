@@ -1,0 +1,36 @@
+{
+  "_note": "Bandeau du haut de page. Une annonce datée s'affiche entre from et to (inclus) et passe avant le message par défaut ; la plus récente l'emporte. page : home, devis, cles, ressemelage ; hash facultatif (ancre, ex. tarifs). Fermetures : ajouter aussi les dates dans horaires.json → closures.",
+  "default": {
+    "id": "horaires",
+    "text": { "fr": "Ouvert du mardi au samedi dès 7 h 15, sans interruption jusqu'à 19 h.", "en": "Open Tuesday to Saturday from 7:15am, straight through to 7pm." },
+    "link": { "fr": "Infos pratiques", "en": "Practical info" },
+    "page": "home",
+    "hash": "infos"
+  },
+  "items": [
+    {
+      "id": "fermeture-noel-2026",
+      "from": "2026-12-18",
+      "to": "2026-12-25",
+      "text": {
+        "fr": "L'atelier sera fermé le jeudi 25 décembre. Pensez à déposer vos réparations avant les fêtes.",
+        "en": "The workshop will be closed on Thursday 25 December. Drop off your repairs before the holidays."
+      },
+      "link": { "fr": "Horaires", "en": "Opening hours" },
+      "page": "home",
+      "hash": "infos"
+    },
+    {
+      "id": "fermeture-jour-de-l-an-2027",
+      "from": "2026-12-26",
+      "to": "2027-01-01",
+      "text": {
+        "fr": "L'atelier sera fermé le vendredi 1er janvier. Bonnes fêtes à tous.",
+        "en": "The workshop will be closed on Friday 1 January. Happy holidays."
+      },
+      "link": { "fr": "Horaires", "en": "Opening hours" },
+      "page": "home",
+      "hash": "infos"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Cordonnerie Henriville
+
+> Cordonnerie, cuir, maroquinerie, reproduction de clés et serrurerie tenue par un Maître Artisan cordonnier, quartier Henriville, 34 rue Gaulthier de Rumilly, 80000 Amiens, France. Téléphone : 03 22 95 65 63. Note Google : 4,8/5 (188 avis, relevé du 5 novembre 2026).
+
+Prestations : talons et patins, ressemelage cuir et gomme, coutures et recollage, fermetures éclair, teinture et rénovation du cuir, entretien et cirage, réparation de sacs, ceintures et maroquinerie, reproduction de clés (plates, de sécurité sur carte de propriété, voiture selon modèle) et de badges d'immeuble, serrurerie (cylindres, serrures de boîte aux lettres, à confirmer), piles de montre, gravure et plaques, produits d'entretien.
+
+Horaires : du mardi au samedi, 7 h 15 – 19 h sans interruption ; fermé le dimanche et le lundi. Sans rendez-vous.
+
+Devis : à l'atelier, par téléphone, ou en ligne avec 1 à 3 photos ; l'atelier répond avec un prix et un délai.
+
+## Pages
+
+- [Accueil](https://cordonnerie-henriville.vercel.app/fr): services, tarifs et délais, le métier, conseils d'entretien, infos pratiques, FAQ
+- [Demande de devis](https://cordonnerie-henriville.vercel.app/fr/devis)
+- [Reproduction de clés à Amiens](https://cordonnerie-henriville.vercel.app/fr/reproduction-cles-amiens)
+- [Ressemelage à Amiens](https://cordonnerie-henriville.vercel.app/fr/ressemelage-amiens)
+- [English version](https://cordonnerie-henriville.vercel.app/en)
+- [Instagram](https://www.instagram.com/cordonnerie.henriville/)

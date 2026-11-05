@@ -1,0 +1,24 @@
+{
+  "name": "Cordonnerie Henriville",
+  "url": "https://cordonnerie-henriville.vercel.app",
+  "phone": "03 22 95 65 63",
+  "phoneIntl": "+33 3 22 95 65 63",
+  "tel": "+33322956563",
+  "whatsapp": null,
+  "email": null,
+  "instagram": "https://www.instagram.com/cordonnerie.henriville/",
+  "instagramHandle": "@cordonnerie.henriville",
+  "facebook": "https://www.facebook.com/cordonnerie.morchain/",
+  "address": { "street": "34 rue Gaulthier de Rumilly", "postalCode": "80000", "city": "Amiens", "district": "Henriville", "region": "Hauts-de-France", "country": "FR" },
+  "geo": { "lat": 49.88751, "lng": 2.293698 },
+  "maps": "https://www.google.com/maps/search/?api=1&query=Cordonnerie+Henriville+34+rue+Gaulthier+de+Rumilly+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=Cordonnerie+Henriville,+34+rue+Gaulthier+de+Rumilly,+80000+Amiens&z=16&output=embed",
+  "rating": { "value": 4.8, "count": 188, "asOf": "2026-11-05", "source": "Google" },
+  "legal": {
+    "company": "SARL Cordonnerie Henriville",
+    "siret": "837 960 087 00018",
+    "director": "Christophe Audegond",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis",
+    "photoCredit": "@lou.au2gd"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Shoe Repair in Amiens, Keys & Locks | Cordonnerie Henriville, Master Craftsman",
+    "description": "Cordonnerie Henriville, master shoemaker in Amiens: heels, resoling, stitching, leather care, bags, key cutting and fobs. No appointment needed, Tuesday to Saturday from 7:15am. Rated 4.8/5 on Google.",
+    "ogAlt": "The shoemaker's hands finishing a black loafer on the sanding wheel at Cordonnerie Henriville, Amiens"
+  },
+  "nav": {
+    "cordonnerie": "Shoe repair",
+    "cles": "Keys & locks",
+    "cuir": "Leather & bags",
+    "tarifs": "Prices",
+    "infos": "Visit",
+    "devis": "Get a quote",
+    "devisShort": "Quote",
+    "call": "Call",
+    "menu": "Menu",
+    "close": "Close menu",
+    "home": "Cordonnerie Henriville, home",
+    "instagram": "Cordonnerie Henriville on Instagram",
+    "lang": "Language",
+    "skip": "Skip to content"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "announce": {
+    "close": "Close banner"
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed",
+    "until": "until {time}",
+    "reopens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "rating": {
+    "label": "{value}/5 on Google",
+    "count": "{count} reviews",
+    "asOf": "Rating as of {date}"
+  },
+  "hero": {
+    "eyebrow": "Master shoemaker · Henriville, Amiens",
+    "title": "We repair,<br> <em>we don’t throw away</em>",
+    "lead": "Heels, soles, stitching, leather, bags, keys: the Henriville neighbourhood workshop brings back the things you love to wear, at an honest price. No appointment, from 7:15am.",
+    "devis": "Get a quote",
+    "tarifs": "See prices"
+  },
+  "tiles": {
+    "eyebrow": "The workshop",
+    "title": "What we repair, what we copy",
+    "from": "from {price}",
+    "onQuote": "Price on quote",
+    "items": {
+      "talons": { "title": "Heels & soles", "text": "Sole protectors, heel tips, heels, rubber or leather resoling." },
+      "couture": { "title": "Stitching & leather", "text": "Stitching, re-gluing, boot zips, dyeing, leather care." },
+      "sacs": { "title": "Bags & leather goods", "text": "Bags, belts, handles, zips, small leather goods." },
+      "cles": { "title": "Keys & fobs", "text": "Flat keys, high-security keys, car keys, building fobs." },
+      "serrurerie": { "title": "Locksmithing", "text": "Lock cylinders and letterbox locks: just ask us." },
+      "petits": { "title": "Small jobs", "text": "Watch batteries, engraving, name plates, care products." }
+    }
+  },
+  "strip": {
+    "label": "At a glance",
+    "items": [
+      { "title": "Open from 7:15am", "text": "Tuesday to Saturday, straight through to 7pm." },
+      { "title": "No appointment", "text": "Drop by, we’ll take a look together." },
+      { "title": "Quote by photo", "text": "Send 1 to 3 photos and we’ll reply." },
+      { "title": "+33 3 22 95 65 63", "text": "A question? Call the workshop." }
+    ]
+  },
+  "beforeAfter": {
+    "eyebrow": "Before / after",
+    "title": "The proof is in the workshop",
+    "lead": "Drag the slider to compare. Photos are taken in the workshop, before and after the repair.",
+    "before": "Before",
+    "after": "After",
+    "handle": "Compare before and after",
+    "soon": "The first before / after photos are on their way: resoled shoes, bags brought back to colour.",
+    "slots": ["Resoled shoes", "Bag brought back to colour"]
+  },
+  "tarifs": {
+    "eyebrow": "Prices & turnaround",
+    "title": "Clear prices, given before we start",
+    "lead": "Prices are a guide: every pair and every bag is different. We look at the item with you and give you the price before touching anything.",
+    "note": "Turnaround times are a guide and depend on how busy the workshop is.",
+    "head": { "service": "Service", "price": "Guide price", "delay": "Turnaround" },
+    "from": "from {price}",
+    "onQuote": "on quote",
+    "confirm": "to be confirmed",
+    "ask": "Get a quote"
+  },
+  "blocks": {
+    "atelier": {
+      "eyebrow": "The workshop",
+      "title": "A neighbourhood workshop that opens before work",
+      "text": "At 34 rue Gaulthier de Rumilly, the workshop opens at 7:15am and stays open through lunch. Drop your shoes off on the way to work, pick them up on the way home. Small repairs are often done while you wait.",
+      "cta": "Hours and directions"
+    },
+    "cles": {
+      "eyebrow": "Keys & locks",
+      "title": "A spare key in the time it takes to have a coffee",
+      "text": "Flat keys for your home, cellar or letterbox, high-security keys with the owner’s card, car keys and building fobs depending on the model. Bring the original key and we’ll check with you that it can be copied.",
+      "cta": "Key cutting"
+    },
+    "cuir": {
+      "eyebrow": "Leather & bags",
+      "title": "Leather can be cared for, not thrown away",
+      "text": "A faded bag, a seam coming apart, a belt that’s too long, a broken zip: leather takes repair very well. Dyeing, stitching, new handles: we’ll tell you honestly what’s worth doing.",
+      "cta": "Get a leather quote"
+    }
+  },
+  "metier": {
+    "eyebrow": "The craft",
+    "title": "Master craftsman is more than a title",
+    "text": "The Maître Artisan title is awarded by the French Chamber of Trades and Crafts. It recognises qualifications and years of practice in the trade. In the workshop it simply means this: we take the time to look, we tell you what can be fixed and what isn’t worth the money, and we do the work by hand.",
+    "points": [
+      "Repair rather than replace: a good pair, resoled, goes on for years.",
+      "The price is given before we start, no surprise when you collect.",
+      "Care advice so the repair lasts."
+    ],
+    "credit": "Photo: {credit}",
+    "tips": {
+      "eyebrow": "Care tips",
+      "title": "Four habits that make your shoes last",
+      "items": [
+        { "title": "Rotate your pairs", "text": "Leather needs a day to dry out. Two pairs worn in turn last more than twice as long." },
+        { "title": "Wooden shoe trees", "text": "Slipped in as soon as you take your shoes off, they keep the shape and absorb moisture." },
+        { "title": "Protectors on new leather", "text": "On a leather sole, a protector fitted early guards the front of the foot and delays resoling." },
+        { "title": "Away from the radiator", "text": "When wet, let them dry in the open air, stuffed with newspaper. Direct heat cracks leather." }
+      ]
+    }
+  },
+  "reviews": {
+    "eyebrow": "Google reviews",
+    "title": "What customers remember",
+    "themes": ["Honest prices", "Real craftsmanship", "A neighbourhood workshop"],
+    "cta": "Read the reviews on Google"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Come to the workshop",
+    "address": "Address",
+    "route": "Directions",
+    "phone": "Phone",
+    "hours": "Opening hours",
+    "closedDay": "Closed",
+    "closures": "Upcoming closures",
+    "access": "Getting here",
+    "accessText": "Henriville neighbourhood, just south of the city centre, a few minutes’ walk from Amiens station. Street parking nearby.",
+    "mapTitle": "Map to Cordonnerie Henriville, 34 rue Gaulthier de Rumilly, Amiens"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Before you come",
+    "items": [
+      { "q": "Do I need an appointment?", "a": "No. The workshop welcomes you without an appointment, Tuesday to Saturday, from 7:15am to 7pm without a break." },
+      { "q": "How long does a repair take?", "a": "Keys, watch batteries, heel tips and belts are often done while you wait. Resoling or dyeing takes a few days. We give you the pick-up date when you drop the item off." },
+      { "q": "How do I get a quote?", "a": "Come to the workshop with the item, or send 1 to 3 photos through the quote form. We reply with a price and a turnaround time, and nothing starts without your go-ahead." },
+      { "q": "Which keys can you copy?", "a": "Common flat keys (home, cellar, letterbox), high-security keys with the owner’s card, some car keys and building fobs depending on the model. Bring the original key and we’ll tell you straight away if it’s possible." },
+      { "q": "Which payment methods do you accept?", "a": "Cash and card. You pay when you collect, once the repair is done." },
+      { "q": "What if I forget to collect my shoes?", "a": "Keep the ticket you get when you drop them off. Items are kept at the workshop; after several months without news, we get in touch. Drop by or call if in doubt." }
+    ]
+  },
+  "footer": {
+    "tagline": "Shoe repair, leather, keys and locks in the heart of the Henriville neighbourhood, Amiens. Master shoemaker.",
+    "contact": "Workshop",
+    "pages": "Pages",
+    "days": "Tuesday to Saturday\n7:15am – 7pm, no lunch break",
+    "closed": "Closed Sunday and Monday",
+    "rights": "Cordonnerie Henriville, Amiens",
+    "legal": "Legal notice"
+  },
+  "devis": {
+    "eyebrow": "Free quote",
+    "title": "Get a quote",
+    "lead": "Describe the repair and attach 1 to 3 photos. The workshop replies with a price and a turnaround time. Nothing starts without your go-ahead.",
+    "preferCall": "Easier by phone?",
+    "sections": {
+      "object": "The item",
+      "repair": "The repair",
+      "photos": "Photos",
+      "delay": "Timing",
+      "contact": "Your details"
+    },
+    "fields": {
+      "objects": { "chaussures": "Shoes", "sac": "Bag", "ceinture": "Belt", "cle": "Key or fob", "autre": "Other" },
+      "repairsLabel": "What needs doing",
+      "repairsHint": "choose as many as you like",
+      "repair": "Any details",
+      "repairPh": "E.g. heel worn on the outside, seam open over 3 cm, Fichet key…",
+      "photos": "Add photos",
+      "photosHint": "1 to 3 photos: the whole item, then the detail to repair.",
+      "photoRemove": "Remove",
+      "photosCount": "{count}/3",
+      "delays": { "pas-presse": "No rush", "semaine": "Within the week", "urgent": "As soon as possible", "date": "By a set date:" },
+      "date": "Preferred date",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "emailHint": "(to receive the confirmation)",
+      "message": "Message",
+      "messagePh": "A detail, a question, the brand of the item…"
+    },
+    "repairs": {
+      "talons": "Heels",
+      "patins": "Sole protectors",
+      "ressemelage": "Resoling",
+      "couture": "Stitching",
+      "fermeture": "Zip",
+      "teinture": "Dyeing, restoration",
+      "entretien": "Care, polishing",
+      "elargissement": "Stretching",
+      "anses": "Handles, straps",
+      "doublure": "Lining",
+      "raccourcir": "Shorten",
+      "trous": "Extra holes",
+      "boucle": "New buckle",
+      "cle-plate": "Flat key",
+      "cle-securite": "High-security key",
+      "cle-voiture": "Car key",
+      "badge": "Fob"
+    },
+    "errors": {
+      "object": "Choose the type of item.",
+      "repair": "Tell us what needs doing (a box or a few words).",
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "This email address doesn’t look right.",
+      "photo": "This photo couldn’t be read. Try another image.",
+      "generic": "Sending failed. Please try again, or call the workshop on +33 3 22 95 65 63."
+    },
+    "submit": "Send the request",
+    "sending": "Sending…",
+    "privacy": "Your details are only used to reply to this request. They are never sold or used for advertising.",
+    "success": {
+      "title": "Request received",
+      "text": "The workshop will look at your photos and reply with a price and a turnaround time.",
+      "email": "A summary has just been sent to your email.",
+      "notNotified": "To be sure the workshop has received it, call directly:",
+      "again": "Send another request"
+    },
+    "message": {
+      "title": "New quote request",
+      "object": "Item",
+      "repairs": "Repairs",
+      "repair": "Details",
+      "delay": "Timing",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "photos": "Photos attached"
+    },
+    "email": {
+      "subject": "Quote request",
+      "confirmSubject": "Your quote request, Cordonnerie Henriville",
+      "confirmIntro": "Hello {name},\n\nThank you for your request. Here is what we received:",
+      "confirmOutro": "We’ll get back to you with a price and a turnaround time. Any question: {phone}, Tuesday to Saturday, 7:15am to 7pm.\n\nCordonnerie Henriville\n34 rue Gaulthier de Rumilly, 80000 Amiens, France"
+    }
+  },
+  "pages": {
+    "cles": {
+      "metaTitle": "Key Cutting in Amiens, Fobs & High-Security Keys | Cordonnerie Henriville",
+      "metaDescription": "Key cutting in Amiens, Henriville: flat keys, high-security keys with card, car keys, building fobs. No appointment, from 7:15am, Tuesday to Saturday.",
+      "eyebrow": "Keys & locks · Amiens",
+      "title": "Key cutting in Amiens",
+      "intro": "A spare for the childminder, a lost cellar key, an extra building fob: bring the original key to the workshop, most copies are made while you wait.",
+      "cta": "Get a key quote",
+      "listTitle": "What we copy",
+      "list": [
+        { "title": "Flat keys", "text": "Front doors, cellars, garages, letterboxes, padlocks." },
+        { "title": "High-security keys", "text": "With the lock’s owner card, depending on the brand." },
+        { "title": "Car keys", "text": "Depending on make and year: call or drop by with the key to check." },
+        { "title": "Building fobs", "text": "Copies of the most common fobs, depending on the technology." }
+      ],
+      "howTitle": "How it works",
+      "how": [
+        { "title": "Bring the original key", "text": "A copy of a copy wears faster and works less well. The original gives the best result." },
+        { "title": "We check with you", "text": "Profile, brand, owner’s card: we tell you straight away if it can be copied and at what price." },
+        { "title": "Try it at home", "text": "If a key sticks, bring it back: we’ll fix it." }
+      ],
+      "serrurerie": "Locksmithing: lock cylinders and letterbox locks. Exact services to be confirmed with the workshop, give us a call to discuss."
+    },
+    "ressemelage": {
+      "metaTitle": "Shoe Resoling in Amiens, Heels & Protectors | Cordonnerie Henriville",
+      "metaDescription": "Leather or rubber resoling in Amiens by a master shoemaker: heels, sole protectors, stitching. Quote by photo, no appointment, Henriville neighbourhood.",
+      "eyebrow": "Shoe repair · Amiens",
+      "title": "Shoe resoling in Amiens",
+      "intro": "A good pair deserves more than one life. When the sole is worn or has a hole, we replace it and keep the upper, and your shoes are good for years more.",
+      "cta": "Get a resoling quote",
+      "listTitle": "Heels, protectors, soles",
+      "list": [
+        { "title": "Leather resoling", "text": "For leather-soled dress shoes: we replace the sole like for like." },
+        { "title": "Rubber resoling", "text": "More grip, longer wear, ideal for Amiens winters." },
+        { "title": "Heels and heel tips", "text": "Men’s heels, women’s heel tips: often done while you wait." },
+        { "title": "Sole protectors", "text": "A thin protective sole fitted under the front of the foot, on new or barely worn leather." }
+      ],
+      "howTitle": "When should you resole?",
+      "how": [
+        { "title": "The sole is getting thin", "text": "Press the middle of the forefoot: if it feels soft like cardboard, it’s time." },
+        { "title": "The heel wears at an angle", "text": "Don’t let the wear reach the sole: a heel is quick and cheap to change." },
+        { "title": "Before the hole", "text": "A sole with a hole lets water in and damages the insole: resole before." }
+      ],
+      "related": "Not sure about your pair? Send a photo of the sole and we’ll tell you what’s possible."
+    }
+  },
+  "legal": {
+    "metaTitle": "Legal notice | Cordonnerie Henriville",
+    "title": "Legal notice",
+    "editor": "Publisher",
+    "editorText": "{company}, 34 rue Gaulthier de Rumilly, 80000 Amiens, France. Phone: +33 3 22 95 65 63.",
+    "siret": "SIRET: {siret}.",
+    "director": "Publication manager: {director}.",
+    "host": "Hosting",
+    "data": "Personal data",
+    "dataText": "Information sent through the quote form (name, phone, email, photos, message) is only used to reply to your request. It is emailed to the workshop and not stored on the website. You can ask for it to be deleted by calling the workshop.",
+    "photos": "Photos",
+    "photosText": "Workshop photos: Cordonnerie Henriville. Bag dyeing photo: {credit}. No stock images and no AI-generated images.",
+    "cookies": "Cookies",
+    "cookiesText": "This website uses no advertising or analytics cookies. Only your language choice is remembered. The map is provided by Google Maps."
+  },
+  "alt": {
+    "mains-ponceuse-mocassin": "The shoemaker's hands holding a black loafer against the workshop's finishing wheel",
+    "teinture-sac-cuir-rouge": "The shoemaker, in black gloves, hand-dyeing a red leather bag"
+  }
+}
